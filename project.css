@@ -1,0 +1,8 @@
+.bg {
+    background-image:radial-gradient(yellow,red);
+    height: 100vh;
+}
+.zeroElement {
+    font-weight: bold;
+    font-size: 50px;
+}
